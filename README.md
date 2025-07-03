@@ -12,7 +12,7 @@ You can play it live [here](https://sudoku11.vercel.app/)
 ---
 ## 🚀 How to Use / Run
 
-1. **Clone the repository** or [download the ZIP](https://github.com/your-username/your-repo-name/archive/refs/heads/main.zip)
+1. **Clone the repository** or [download the ZIP](https://github.com/sreya1711/sudoku11.git)
 2. Open `index.html` in any modern web browser (Chrome, Firefox, Edge, etc.)
 3. Start playing Sudoku!
 
