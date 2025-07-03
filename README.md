@@ -7,7 +7,6 @@ No backend or external libraries needed.
 ## 🌐 Live Demo
 
 You can play it live [here](https://sudoku11.vercel.app/)  
-(Replace with your actual GitHub Pages link after uploading.)
 
 ---
 ## 🚀 How to Use / Run
@@ -46,13 +45,6 @@ You can play it live [here](https://sudoku11.vercel.app/)
 - HTML
 - CSS (Flexbox layout)
 - JavaScript (Vanilla JS)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ## 🙌 Credits
