@@ -1,26 +1,29 @@
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width initial-scale=1.0 user-scalable=no">
-        <title>Sudoku</title>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <title>Sudoku</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
 
-        <link rel="stylesheet" href="style.css">
-        <script src="sudoku.js"></script>
-    </head>
+<body>
+  <h1>SUDOKU</h1>
+  <hr />
+  <h2 id="errors">0</h2>
 
-    <body>
-        
-        <h1>SUDOKU</h1>
-        <hr>
-        <h2 id="errors">0</h2>
+  <div id="board"></div>
+  <br />
+  <div id="digits"></div>
 
-        <!-- 9x9 board -->
-        <div id="board"></div>
-        <br>
-        <div id="digits">
-        </div>
+  <!-- Confetti and Certificate -->
+  <div id="confetti-container"></div>
+  <div id="certificate">
+    🎉 Congratulations! 🎉<br />
+    You have completed the Sudoku Puzzle!<br /><br />
+    <strong>Certificate of Achievement 🏆</strong>
+  </div>
 
-    </body>
-
-
+  <script src="script.js"></script>
+</body>
 </html>
