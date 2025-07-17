@@ -1,8 +1,7 @@
 
 # Sudoku Web App 🧩
 
-This is a simple Sudoku game built using **HTML, CSS, and JavaScript** — playable directly in the browser!  
-No backend or external libraries needed.
+This is a simple Sudoku game built using **HTML, CSS, and JavaScript** — playable directly in the browser!
 
 ## 🌐 Live Demo
 
